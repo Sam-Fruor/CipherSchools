@@ -1,0 +1,5 @@
+A1: The violated principles are Confidentiality (patient data), Integrity (records are locked), and Availability (systems halted).
+
+A2: PII and CII involve sensitive patient data and critical health information, which are targeted for theft or disruption.
+
+A3: The hospital should adopt a cybersecurity framework like NIST, including strong access controls, regular backups, staff training, and incident response plans.

@@ -1,0 +1,5 @@
+A1: The exposed data includes PII (personally identifiable information).
+
+A2: Likely errors: Technical—weak security measures; Human—poor password management and inadequate training.
+
+A3: This case highlights the need for strong security practices and awareness to protect sensitive data.

@@ -1,0 +1,5 @@
+A1: This qualifies as a CII attack because it disrupted critical energy infrastructure vital for national security and economy.
+
+A2: The breach caused fuel shortages, economic disruption, and risks to public safety at the national level.
+
+A3: India can learn to enhance cybersecurity, improve incident response, and implement robust protections for critical infrastructure to prevent similar attacks.

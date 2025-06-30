@@ -1,0 +1,5 @@
+A1: Power grids are CII because their failure impacts national security and public safety.
+
+A2: CII threats are more dangerous, targeting operational systems and causing widespread damage.
+
+A3: To secure CII: Use strong defenses, train staff, control access, and have response plans.
